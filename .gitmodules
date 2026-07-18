@@ -1,0 +1,7 @@
+[submodule "testrepo1"]
+	path = testrepo1
+	url = https://github.com/YeshwanthKumar1738/testrepo1
+	branch = main
+[submodule "testrepo2"]
+	path = testrepo2
+	url = https://github.com/YeshwanthKumar1738/testrepo2
