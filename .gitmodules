@@ -5,7 +5,3 @@
 [submodule "testrepo2"]
 	path = testrepo2
 	url = https://github.com/YeshwanthKumar1738/testrepo2
-[submodule "testrepo1-feature-calib-data"]
-	path = testrepo1-feature-calib-data
-	url = https://github.com/YeshwanthKumar1738/testrepo1
-	branch = feature/calib-data
